@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">newFresco</string>
+    <string name="app_but1">圆角</string>
+    <string name="app_but2">圆形</string>
+    <string name="app_but3">比例1.2</string>
+    <string name="app_but4">渐进式</string>
+    <string name="app_but5">磁盘缓存</string>
+    <string name="app_but6">加载动画</string>
+    <string name="app_but7">加载监听</string>
+    <string name="app_but8">配置okhttp</string>
+</resources>
